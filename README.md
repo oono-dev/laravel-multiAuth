@@ -5,7 +5,7 @@ This is Laravel boiler template for multiauth. The overview is below.
 - Laravel11
 - Breeze
 - react
-- Typescript
+- TypeScript
 - vite
 - Inertia.js
 
