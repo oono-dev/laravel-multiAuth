@@ -31,7 +31,7 @@ next, migrate
 ```
 you can access http://localhost.
 
-## Otehr info
+## Other info
 generate user and admin data
 ```
 ./vendor/bin/sail artisan db:seed
